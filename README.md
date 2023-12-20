@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Hey 👋, I'm <a href="https://www.linkedin.com/in/brian-stokes-86a842124/">Brian</a></h2>
+<p>Was previously a Chemist, now working on some fun side projects while simultaneously losing Rocket League games. Will never say no to food and travel!</p>
+
 
 <!--
 **bcstokes4/bcstokes4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
