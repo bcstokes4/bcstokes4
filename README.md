@@ -7,7 +7,7 @@ Software Developer
 Hey, I'm Brian. I started in Chemistry, crafting precise chemical reference standards—specializing in volatile neats and solvents. Now, I'm deep into software development, where I've found my groove in problem-solving through code. Outside of work, my two big loves are travel and food. Exploring new places and diving into local cuisines keeps life exciting. Let's connect, swap stories, and maybe plan our next adventure together!
 
 * 🌍  I'm based in Augusta, GA
-* 🖥️  See my portfolio at [http://bcstokes4.github.io](http://bcstokes4.github.io)
+* 🖥️  See my portfolio at [http://bcstokes4.github.io](http://brianstokes.org)
 * ✉️  You can contact me at [bcstokes4@gmail.com](mailto:bcstokes4@gmail.com)
 * 🚀  I'm currently working on [SportHub E-commerce App](http://sporthub.onrender.com)
 * 🧠  I'm learning TypeScript and C#
